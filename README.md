@@ -2,7 +2,7 @@
 
 Hey there :wave: 
 
-My name is Jennifer and I have intermediate knowledge of HTML/CSS/JS. I recently completed a 21 YouTube video called [Frontend Web Development Bootcamp Course](https://www.youtube.com/watch?v=zJSY8tbf_ys) on May 2023. The more I learn, the more intrigued I have become with front-end development. 
+My name is Jennifer and I have intermediate knowledge of HTML/CSS/JS. I recently completed a 21 YouTube video called [Frontend Web Development Bootcamp Course](https://www.youtube.com/watch?v=zJSY8tbf_ys) on May 2023. In this repository, I will be completing challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges). The more I've been learning, the more intrigued I have become with front-end development. 
 
 My new skillset as of May 2023 includes:
 
