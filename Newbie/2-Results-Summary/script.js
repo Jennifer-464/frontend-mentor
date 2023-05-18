@@ -23,6 +23,7 @@ fetch("data.json")
             objAndCategoryDiv.appendChild(pCategoryTag);
 
             let pScoreTag = document.createElement("p");
+            pScoreTag.setAttribute("class", "score-text")
             let spanTag = document.createElement("span");
             spanTag.innerText = " / 100";
             pScoreTag.innerText = score;
