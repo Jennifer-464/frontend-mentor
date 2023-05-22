@@ -25,7 +25,7 @@ fetch("data.json")
             let pScoreTag = document.createElement("p");
             pScoreTag.setAttribute("class", "score-text")
             let spanTag = document.createElement("span");
-            spanTag.innerText = " / 100";
+            spanTag.innerText = "\xa0 / 100";
             pScoreTag.innerText = score;
             pScoreTag.appendChild(spanTag);
 
