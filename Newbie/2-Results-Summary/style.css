@@ -108,7 +108,7 @@ aside {
     padding: 15px;
     border-radius: 10px;
     margin-bottom: 15px;
-
+    width: 100%;
 }
 
 .icon-and-category {
@@ -129,24 +129,20 @@ aside {
 #summary-data section span {
     /* border: 3px solid purple; */
     font-size: 0.8rem;
-    /* vertical-align: middle; */
 }
 
-
-
-/* .score-text {
-    color: var(--dark-gray-blue);
+aside h1 {
+    font-weight: 700;
 }
 
-.score-text span {
-    color: hsla(224, 30%, 27%, 0.5);
+aside button {
+    background-color: var(--dark-gray-blue);
+    color: var(--white);
+    width: 100%;
+    padding: 15px;
+    border-radius: 25px;
+    border: none;
 }
-
-#summary-data p,
-span {
-    font-size: 1rem;
-} */
-
 
 /* BOTTOM FOOTER */
 footer {
