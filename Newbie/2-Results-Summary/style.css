@@ -135,7 +135,7 @@ aside h1 {
     font-weight: 700;
 }
 
-aside button {
+main aside button {
     background-color: var(--dark-gray-blue);
     color: var(--white);
     width: 100%;
