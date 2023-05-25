@@ -146,6 +146,7 @@ aside button {
 
 /* BOTTOM FOOTER */
 footer {
+    margin-top: 80px;
     font-size: 11px;
     text-align: center;
 }
