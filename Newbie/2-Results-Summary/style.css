@@ -135,13 +135,17 @@ aside h1 {
     font-weight: 700;
 }
 
-main aside button {
+button {
     background-color: var(--dark-gray-blue);
     color: var(--white);
     width: 100%;
     padding: 15px;
     border-radius: 25px;
     border: none;
+}
+
+button:hover {
+    background: linear-gradient(var(--light-slate-blue), var(--light-royal-blue));
 }
 
 .score-text {
