@@ -43,6 +43,7 @@
     border-radius: 0 0 25px 25px;
     padding: 20px 60px 40px;
     color: var(--light-lavender);
+    width: 100%;
 }
 
 section #circle {
@@ -127,7 +128,6 @@ aside {
 
 #summary-data section p,
 #summary-data section span {
-    /* border: 3px solid purple; */
     font-size: 0.8rem;
 }
 
@@ -144,13 +144,47 @@ main aside button {
     border: none;
 }
 
-/* BOTTOM FOOTER */
-footer {
-    margin-top: 80px;
-    font-size: 11px;
-    text-align: center;
+.score-text {
+    color: var(--dark-gray-blue);
 }
 
-footer a {
-    color: hsl(228, 45%, 44%);
+#summary-data p span {
+    color: hsla(224, 30%, 27%, 0.5);
+}
+
+/* DESKTOP */
+@media (min-width: 768px) {
+    body {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    main {
+        background-color: var(--white);
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        height: 410px;
+        width: 650px;
+        border-radius: 25px;
+        box-shadow: 10px 8px 20px 1px rgba(235, 241, 255, 0.6);
+        -webkit-box-shadow: 10px 8px 20px 1px rgba(235, 241, 255, 0.6);
+        -moz-box-shadow: 10px 8px 20px 1px rgba(235, 241, 255, 0.6);
+    }
+
+    #result-section {
+        border-radius: 25px;
+        width: 350px;
+        padding: 50px 80px 50px;
+    }
+
+    aside {
+        min-width: 250px;
+    }
+
+    aside section {
+        padding: 10px;
+    }
 }
