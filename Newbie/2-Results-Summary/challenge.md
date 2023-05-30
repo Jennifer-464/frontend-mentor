@@ -5,7 +5,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screen Record](#screen-record)
-  - [Links](#links)
+  - [Solution Link](#solution-link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -32,7 +32,7 @@ Your users should be able to:
 <img src="./images/view-desktop.png" width="800px"><br>
 <img src="http://g.recordit.co/2ZFvFlMu9u.gif" width="800px"><br>
 
-## Building your project
+### Solution Link
 
 - Solution URL: [My Solution](https://jennifer-464.github.io/frontend-mentor/Newbie/2-Results-Summary/)
 
