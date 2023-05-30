@@ -9,7 +9,6 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -23,13 +22,15 @@
 
 Your users should be able to:
 
-- [ ] View the optimal layout for the interface depending on their device's screen size
-- [ ] See hover and focus states for all interactive elements on the page
+- [X] View the optimal layout for the interface depending on their device's screen size
+- [X] See hover and focus states for all interactive elements on the page
 
 
 ### Screen Record
 
-<img src="" width="800px"><br>
+<img src="./images/view-mobile.png" width="800px"><br>
+<img src="./images/view-desktop.png" width="800px"><br>
+<img src="http://g.recordit.co/2ZFvFlMu9u.gif" width="800px"><br>
 
 ## Building your project
 
@@ -49,21 +50,23 @@ Your users should be able to:
 
 ### What I learned
 
-I learned so many new things that I had so much fun implementing. -----
-
-### Continued development
-
-I have completed the desktop & mobile versions of this challenge. I did complete most of the challenge with the guidance of the video. I wanted to see what the approach and thinking was from someone who is already experienced. I hope to take the same approaches as he did to attempt a challenge in Frontend Mentor. Next challenge will include CSS flexbox & grid which I am very excited about. It was difficult without it.
+Most of my learning came from researching how to display JSON information from a json file to the HTML file. I looked into JavaScript Promise, but ultimately went with the Fetch API as it made more sense. From there understanding how I wanted to lay out my HTML tags through JavaScript was tough and there had to be readjustments. These were necessary as it affected how I could use CSS with it.
 
 
 ### Useful resources
 
-- [CSS Diner Game](https://flukeout.github.io/) - This game helped me understand all different levels of selectors. I would recommend this for anyone starting to learn them, but yet to grasp from just plain reading.
+- [Learn JSON in 10 Minutes](https://www.youtube.com/watch?v=iiADhChRriM) - This youtube channel has been the best place to understand concepts for Web Development
+
+- [JavaScript Promises in 10 Minuts](https://www.youtube.com/watch?v=DHvZLI7Db8E) - Here I learned how Promises work from scratch and how that relates to the format Fetch API is written in.
+
+- [Learn Fetch API in 6 Minutes](https://www.youtube.com/watch?v=cuEtnrL9-H0&t=221s) - Ultimately here is where I would properly learn about this topic and debug my code throughout to display the information necessary in HTML. 
+
+- [Align SVG Icons to Text](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) - I was having issues with aligning the icons to the text and the Medium website seems to have a lot of sources mainly relating to tech.
 
 
 ## Author
 
-- Website - [Jennifer](https://jennifer-464.github.io/front-end-activities/HTML-CSS-JS/Challenges/challenge3-newbie-grid/)
+- LinkedIn - [/in/jennifer464](https://www.linkedin.com/in/jennifer464/)
 - Frontend Mentor - [@Jennifer-464](https://www.frontendmentor.io/profile/Jennifer-464)
 
 
