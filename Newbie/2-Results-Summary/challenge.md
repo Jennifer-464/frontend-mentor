@@ -28,7 +28,7 @@ Your users should be able to:
 
 ### Screen Record
 
-<img src="./images/view-mobile.png" width="800px"><br>
+<img src="./images/view-mobile.png" height="800px"><br>
 <img src="./images/view-desktop.png" width="800px"><br>
 <img src="http://g.recordit.co/2ZFvFlMu9u.gif" width="800px"><br>
 
