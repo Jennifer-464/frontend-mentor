@@ -73,11 +73,3 @@ Most of my learning came from researching how to display JSON information from a
 ## Acknowledgments
 
 Still super grateful to freeCodeCamp for providing a 21 hour long YouTube video on [Frontend Web Development](https://youtu.be/zJSY8tbf_ys).
-
-
-
-
-
-
-
-https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4
